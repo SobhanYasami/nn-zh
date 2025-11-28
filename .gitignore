@@ -1,0 +1,8 @@
+./part-01/.venv/
+./part-01/__pycache__/
+./part-01/main.ipynb_checkpoints/
+
+
+./part-02/.venv/
+./part-02/__pycache__/
+./part-02/main.ipynb_checkpoints/
